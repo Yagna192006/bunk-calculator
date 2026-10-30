@@ -1,0 +1,11 @@
+================================================================
+[2026-10-27 08:36:31] DAILY ATTENDANCE & DANGER LIST REMINDER
+================================================================
+Reminder: Please remember to mark today's attendance in Bunk Calculator!
+
+Subjects currently below 75% attendance threshold:
+  * OS: 66.67% attendance (Must attend next 3 lecture(s) consecutively!)
+  * Python: 66.67% attendance (Must attend next 3 lecture(s) consecutively!)
+  * DBMS: 50.00% attendance (Must attend next 10 lecture(s) consecutively!)
+================================================================
+

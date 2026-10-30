@@ -1,0 +1,35 @@
+================================================================
+             L01 BUNK CALCULATOR - MONTHLY REPORT
+================================================================
+Generated on : 2026-10-27 08:38:21
+Student      : PATEL YAGNA | Roll: G22 | Div: G
+Enrollment   : 24004501210297
+Data source  : data/attendance.csv
+----------------------------------------------------------------
+1. OVERALL STATISTICS
+   Total Lectures Conducted : 58
+   Total Attended (Present) : 43
+   Total Missed (Absent)    : 15
+   Aggregate Attendance Rate: 74.14%
+----------------------------------------------------------------
+2. SUBJECT-WISE BREAKDOWN
+   SUBJECT        TOTAL    PRESENT  ABSENT   PERCENT      STATUS    
+   -------------- -------  -------  -------  ------------ ----------
+   CN             9        8        1        88.89      % SAFE      
+   OS             9        6        3        66.67      % LOW (<75%)
+   ML             10       9        1        90.00      % SAFE      
+   Linux          11       9        2        81.82      % SAFE      
+   Python         9        6        3        66.67      % LOW (<75%)
+   DBMS           10       5        5        50.00      % LOW (<75%)
+----------------------------------------------------------------
+3. BUNK & RECOVERY PLAN
+   SUBJECT        STATUS       RECOMMENDATION                
+   -------------- ------------ ------------------------------
+   CN             SAFE         Can bunk 1 lecture(s)         
+   OS             DANGER       Must attend 3 lecture(s) in a row
+   ML             SAFE         Can bunk 2 lecture(s)         
+   Linux          SAFE         Can bunk 1 lecture(s)         
+   Python         DANGER       Must attend 3 lecture(s) in a row
+   DBMS           DANGER       Must attend 10 lecture(s) in a row
+================================================================
+End of Report.
